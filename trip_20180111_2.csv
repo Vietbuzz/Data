@@ -1,0 +1,3 @@
+STT,Transaction_date,Branch_code,Business_unit,Product_code,Payment_type,Entity_driver,Entity_customer,Tax_code,Promotion_code,Amount_total,Amount_driver,Amount_htx,Amount_dvvt,Amount_revenue,Amount_tax_driver,Amount_tax_htx,Amount_tax_com,Amount_promotion,Amount_fee
+1,2019-01-11,HCM,BU1,car,cash,htx,company,VAT10,abcxyz123455,100000,75000,5000,5000,5000,1000,1000,1000,5000,1000
+2,2019-01-11,HN,BU2,bike,credit_card,htx,personal_customer,VAT10,abcxyz54321,100000,75000,5000,5000,5000,1000,1000,1000,5000,1000
